@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.gz
+*.tar
+*.json
+*.keras
+*.png
+*.txt
