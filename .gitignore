@@ -6,3 +6,5 @@
 *.keras
 *.png
 *.txt
+*.feat
+*.vocab
